@@ -42,9 +42,8 @@ while True:
             finally:
                 print("""\t  Thank You for using E-Bill Portal.
 \t**************************************\n""")
-                print(" Press 'Enter' to continue ")
-                input()       
-
-    bill = E_Bill(input("Enter energy meter reading: "))
+                input(" Press 'Enter' to continue ")
+                
+    bill = E_Bill(input("Enter Energy Meter Reading: "))
     bill.message()
     bill.calculation()
