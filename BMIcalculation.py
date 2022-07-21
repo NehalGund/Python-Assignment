@@ -51,7 +51,7 @@ while True:
 \tIncorrect Choice""")
             wt = 0
         if wt > 0:
-            bmi = float(wt) / float(ht) / float(ht) * 100 * 100
+            bmi = wt * (100**2) / (ht**2)
             print("""\t****************************
 \tYour BMI is : {0:.2f}""".format(bmi))
             
@@ -76,4 +76,4 @@ while True:
 \t\t Try Again!
 \t****************************""")
     finally:
-        print(input("\nPress 'Enter' to calculate BMI "))
+        input("\nPress 'Enter' to calculate BMI ")
