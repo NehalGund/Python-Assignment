@@ -3,7 +3,7 @@
 All assignments are created using the "Python" programming language. Users find it easy to use and understand.
 
 ## Screenshot of assignments:-
-### Assignment - 2
+### Assignment - 1
 #### Electricity Bill Calculator:
 - Enter Energy Meter reading and get cost to be paid.
 ![E-Bill](https://user-images.githubusercontent.com/108085377/179650525-e915d90d-78f9-4c25-9d1f-b1b1c8cc6313.JPG)
