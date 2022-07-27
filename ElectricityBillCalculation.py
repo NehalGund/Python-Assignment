@@ -29,7 +29,8 @@ while True:
                     cost = units*16   
                 else:
                     print("\t Incorrect Reading!")
-                print("""\t======================================
+                if self.reading>50:
+                    print("""\t======================================
 \t Energy meter reading is {0} and
 \t Electricity bill is: Rs. {1:.2f}/-
 \t======================================""".format(self.reading,cost))
