@@ -16,6 +16,13 @@ All assignments are created using the "Python" programming language. Users find 
 ![BMIcalculator](https://user-images.githubusercontent.com/108085377/179503432-10ff3915-12a9-44af-b891-6eaa1bdc8373.JPG)
 ![bmi](https://user-images.githubusercontent.com/108085377/181197784-78e695e3-a99a-45f2-a9c1-7286c459f229.gif)
 
+### Assignment - 3
+### EV's Basic Specifications :
+- Displays basic specifications of EV's
+- Systematic presentation
+![EVS](https://user-images.githubusercontent.com/108085377/178733981-d0cee332-7751-453f-9414-ef7ef1b55f0b.JPG)
+![evs](https://user-images.githubusercontent.com/108085377/181194426-ff48e3ef-4104-4d15-9725-f4bfc1561cc4.gif)
+
 ## Support
 
 If you discover any faults or difficulties with assignments, feel free to contact me at gundnehal@gmail.com
