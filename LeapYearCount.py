@@ -2,7 +2,6 @@ import datetime
 from datetime import *
 
 def list_of_leapyear(ele,leap_years):
-
     if ele % 2 != 0:
         n = ele - 1
     else:
