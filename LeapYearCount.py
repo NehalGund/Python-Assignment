@@ -47,8 +47,7 @@ while True:
                     future_date = str(birthdate - today)
                     days = future_date.split()
                     print("\n\t************************************************************\n\tToday's date is {0}.\n\tPlease wait for {1} days to reach {2} date.\n\t************************************************************".format(today,days[0],birthdate))            
-            except Exception as e:
-                print(e) 
+            except Exception:
                 print("""\n\t\t\t'Error!'\n
 *******************************************************************************
 Do you facing an error? Try the following solutions:
