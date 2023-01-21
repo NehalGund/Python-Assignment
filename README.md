@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Python-Assignment&style=plastic&label=Repository+Views)
 # Python Assignments
 
 All assignments are created using the "Python" programming language. Users find it easy to use and understand.
